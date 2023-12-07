@@ -1,0 +1,2 @@
+# Random emoji Page 
+## Web page was developed with pourpose to test fecth api on Js,inside structure I consider to define apikey route and apirest endpoint to https://developers.giphy.com/docs/api/endpoint/#random.
